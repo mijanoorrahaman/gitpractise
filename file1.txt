@@ -8,3 +8,5 @@ qwert
 >>>>>>> 8347ea0281d33f40e8aa2fa93401c0b4d0315282
 kjnkln
 new lines added for 
+=========================
+New Branch Dev added to repo
